@@ -14,7 +14,7 @@ I dont really have much of a coding background other then a few courses I've tak
 
 The code works in order of how you see it;
 
-
+**ALSO IM RUNNING THIS ON PYTHON 3.12 64 BIT ON VS CODE, ANYTHING 3.10 OR LATER SHOULD WORK WITH STREAMLIT :THUMBSUP:
 ///HOW TO USE IT
 
 1. Download the files and have them in their specified folder
