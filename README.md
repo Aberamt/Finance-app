@@ -15,7 +15,14 @@ I dont really have much of a coding background other then a few courses I've tak
 The code works in order of how you see it;
 
 
+///HOW TO USE IT
 
+1. Download the files and have them in their specified folder
+2. Install the necessary libraries (in venv or to path)
+3. open FD.py in VSCODE or whatever else you please
+4. run the command <<path>> python -m streamlit run FD.py
+5. Upload mock data
+6. see visulizations! WIP so things will be imrpoved as I have time
 
 ///(Code explained skip if u want)
 
