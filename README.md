@@ -19,10 +19,17 @@ The code works in order of how you see it;
 
 1. Download the files and have them in their specified folder
 2. Install the necessary libraries (in venv or to path)
-3. open FD.py in VSCODE or whatever else you please
-4. run the command <<path>> python -m streamlit run FD.py
-5. Upload mock data
-6. see visulizations! WIP so things will be imrpoved as I have time
+pip install streamlit pandas plotly
+**FOR VIRT ENV SETUP BEFORE LIBRARIES
+
+python -m venv venv
+venv\Scripts\activate      # Windows
+source venv/bin/activate   # Mac/Linux
+
+5. open FD.py in VSCODE or whatever else you please
+6. run the command <<path>> python -m streamlit run FD.py
+7. Upload mock data
+8. see visulizations! WIP so things will be imrpoved as I have time
 
 ///(Code explained skip if u want)
 
